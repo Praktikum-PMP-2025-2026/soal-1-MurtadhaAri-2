@@ -2,8 +2,8 @@
  *   Modul               : 02 - DATA MANIPULATION AND EXTERNAL FILES
  *   Hari dan Tanggal    : Selasa, 21 April 2026
  *   Nama (NIM)          : Murtadha Al-Askari (13224048)
- *   Nama File           : Panjang_Kata.c
- *   Deskripsi           : Menampilkan panjang string
+ *   Nama File           : Manuskrip_Retak.c
+ *   Deskripsi           : Menampilkan buka kurung dan tutup kurung yang sama
  * 
  */
 
