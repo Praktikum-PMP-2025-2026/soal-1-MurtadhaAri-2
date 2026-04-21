@@ -32,7 +32,7 @@
                     break;
                 }
             }
-            if (character_ketemu) {
+            if (character_ketemu == 1) {
                 count++;
                 hasil[j++] = character[i];
             }
